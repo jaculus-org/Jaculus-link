@@ -5,10 +5,10 @@ site_description: >-
   stream connection. It does not contain bindings for communication interfaces but provides a simple API for creating them.
 site_author: Petr Kubica
 
-repo_url: https://github.com/cubicap/Jaculus-link
-repo_name: cubicap/Jaculus-link
+repo_url: https://github.com/jaculus-org/Jaculus-link
+repo_name: jaculus-org/Jaculus-link
 
-copyright: Copyright © 2023 Petr Kubica
+copyright: Copyright © 2025 Petr Kubica
 
 theme:
   name: material
